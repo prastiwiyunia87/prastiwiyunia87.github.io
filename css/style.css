@@ -1,0 +1,70 @@
+.parent1 {
+   display: inline-block;
+   width: 960px;
+   margin-top: 30px; 
+}
+
+.anak1 {
+    background-color: lightskyblue;
+    font-size: 15px;
+    float: left;
+    width: 960px;
+    height: 35px;
+}
+
+.anak2 {
+    background-color: lightskyblue;
+    font-size: 10px;
+    float: left;
+    width: 960px;
+    height: 180px;
+}
+
+.anak3 {
+    background-color: orangered;
+    font-size: 15px;
+    float: left;
+    width: 960px;
+    height: 25px;
+}
+
+.anak4 {
+    background-color: lightpink;
+    font-size: 12px;
+    float: left;
+    width: 320px;
+    height: 480px;
+}
+
+.anak5 {
+    background-color: lightcyan;
+    font-size: 12px;
+    float: left;
+    width: 320px;
+    height: 480px;
+}
+
+.anak6 {
+    background-color: lightsalmon;
+    font-size: 12px;
+    float: left;
+    width: 320px;
+    height: 480px;
+}
+
+.anak7 {
+    background-color: gray;
+    font-size: 13px;
+    float: left;
+    width: 960px;
+    height: 24px;
+}
+
+
+
+
+
+
+
+
+
